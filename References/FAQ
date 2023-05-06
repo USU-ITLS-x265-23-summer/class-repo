@@ -1,0 +1,14 @@
+# Frequently Asked Questions
+
+## git
+
+### What is an easy way to think about saving files in git?
+If you think of git and files as a suitcase and clothes.
+- Saving a file locally has no impact on the actual git repo.
+  It's like taking clothes out of the dryer and hanging them in your closet.
+- Staging files in git indicates that you are _probably_ going to commit them at a later time.
+  It's like taking the clothes out of your closet and putting them in your suitcase.  You can still change you mind and take them out again, and they haven't actually gone anywhere yet.
+- Committing files in git saves them in git history.
+  This is like zipping up the suitcase and taking it to the airport.  You have gathered a set of meaningful files together into a discreet collection.
+- Pushing a commit is saving committed files to a separate location.
+  This is akin to loading your suitcase in one location and after a bit of transit, that suitcase and its contents are now available at a different location.
