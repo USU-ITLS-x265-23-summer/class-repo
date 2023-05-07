@@ -26,7 +26,9 @@ During this time, you will be sharing your notes, observations, and queries with
 
 ### Weekly assignments
 
-#### Technical and Instructional Tasks
+There are weekly deadlines for all assignments.  I'll do my checks the Monday after the deadline.  Missing a few deadlines shouldn't hurt your grade —_but_ it will absolutely make it harder for you to catch-up and be able to complete the actual course.  In light of this, there are a couple of weeks that are _slightly_ less intense _primarily for review of material before progressing_.  However, if you've fallen behind, use these periods to catch up!
+
+### Technical and Instructional Tasks
 
 Initially most of your assignments will be specific, predefined instructional lessons.  For each of these assignments, you will:
   - need to complete the actual assignment
@@ -37,7 +39,7 @@ Initially most of your assignments will be specific, predefined instructional le
 
 There will be a single repo for the entire class for this assignment. (You'll understand what a "repo" is by the end of the first week.)
 
-#### Project Tasks
+### Project Tasks
 
 Most weeks there will be requirements helping you move from an instructional concept toward your completed project for the semester.
 
@@ -47,7 +49,7 @@ You will each have your own repo for this project.
 
 More project details are available on the [Projects](./Weekly-assignments/Projects.md) page.
 
-#### Prior Knowledge Levels
+### Prior Knowledge Levels
 
 As there is a rather wide difference in prior knowledge on the related topics, there will be significant latitude in the learning tasks that you may focus on completing.  
 
