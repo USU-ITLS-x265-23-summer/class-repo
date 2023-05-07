@@ -8,7 +8,7 @@ At this point, all projects should be complete.
    - Ask questions about decisions that were made
    - Highlight aspects of their projects that you appreciate, either from a technical or instructional perspective
    - Make _polite and respectful_ comments about changes you think might be beneficial to their projects.
-2. Rate your own project according to the appropriate course rubric.
+2. Rate your own project according to the [appropriate course rubric](./Projects.md#project-assessment).  
    **_ABSOLUTELY CRITICAL NOTES_** 
    - Each student entered this course with different knowledge levels.
    - As you rate yourself, focus primarily on what **_you_** have demonstrated in your project.  Do _NOT_ compare yourself to everyone else in the class.

@@ -17,7 +17,7 @@ By the end of this course, you should be able to:
 
 ## General Course Structure
 
-Over the course of the semester, your weekly primary tasks will transition from a focus on learning new skills and evaluating different approaches to the development of your own instructional project.
+Over the course of the semester, your weekly primary tasks will transition from a focusing on learning new skills and evaluating different instructional approaches toward the development of your own instructional project.
 
 During this time, you will be sharing your notes, observations, and queries with your fellow students.
 
@@ -44,6 +44,8 @@ Most weeks there will be requirements helping you move from an instructional con
 Your project task will require an approved instructional technology topic using skills covered within this course.  If you feel you can use technologies beyond those covered in this course, you _must have prior approval_.  In general, as long as your project demonstrates the covered skills, any additional technology use will be approved.
 
 You will each have your own repo for this project.
+
+More project details are available on the [Projects](./Weekly-assignments/Projects.md) page.
 
 #### Prior Knowledge Levels
 
