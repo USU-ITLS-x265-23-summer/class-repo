@@ -23,6 +23,28 @@ Like the Dewey decimal system organizes different objects (e.g. books, films, mi
 
 Keeping with this analogy, GitHub is one specific library that stores many different repos (analogous books).  Copies of the same book can be in different libraries, likewise copies of the same repo can be hosted by different centralized servers.  This is similar to how both the USU and UofU libraries can have different copies of the same edition of the Websters dictionary.  Most USU students predominately use the USU library, similarly most web developers use GitHub to host their git repo.
 
+## NOTES BEFORE DOING FOLLOWING ASSIGNMENTS
+
+### 1. Start each of these assignments
+ For each of the ***following assignments***, you'll need to CLICK the text link.
+   For these assignments do NOT click the "Open in GitHub Codespaces" button.
+   (Other assignments may require you to open in GitHub Codespaces).
+
+<img width="800" alt="Screen Shot 2023-05-08 at 3 43 05 PM" src="https://user-images.githubusercontent.com/7552754/236944494-8f3a0f2d-9b20-4e68-9a71-725fa50616f4.png">  
+
+### 2. IGNORE "How to start this course"
+
+<img width="800" alt="Screen Shot 2023-05-08 at 3 57 29 PM" src="https://user-images.githubusercontent.com/7552754/236948438-54dbe1ea-2d11-423b-afe2-aef5a7802523.png">
+
+
+### 3. Go to your already started course
+
+The url should follow the pattern `https://github.com/USU-ITLS-x265-23-summer/[GITHUB-COURSE-NAME]-[YOUR-GITHUB-USER-NAME-HERE]`, for example:
+- `https://github.com/USU-ITLS-x265-23-summer/github-starter-course-metasean`  
+- `https://github.com/USU-ITLS-x265-23-summer/introduction-to-github-smuckatelly`  
+- `https://github.com/USU-ITLS-x265-23-summer/review-pull-requests-rockstardev`  
+
+
 ## Assignment 2
 
 Complete the ["github-starter-course](<https://classroom.github.com/a/Qe0MErOh>) course in the [Classrooms / ITLS-x265-23-summer](https://classroom.github.com/classrooms/131394480-itls-x265-23-summer).
