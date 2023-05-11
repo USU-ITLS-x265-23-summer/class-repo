@@ -2,6 +2,10 @@
 
 **GitHub Username:** derekscholes
 
+**FreeCodeCamp Username:** derekscholes
+
+**Exercism Username:** @derekscholes
+
 **UtahJS Slack Username:** DerekJS
 
 ## Description:
