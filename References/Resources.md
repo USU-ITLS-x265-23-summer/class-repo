@@ -27,3 +27,7 @@
 
 - <https://www.youtube.com/watch?v=WaPXhYaFReY>
 - <https://www.youtube.com/watch?v=XuvN4GgOVj4>
+
+## Help from AI
+- <www.bard.google.com>
+- 
