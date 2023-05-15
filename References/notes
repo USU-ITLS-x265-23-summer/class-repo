@@ -1,0 +1,25 @@
+I took the following notes from *The Basics of Github* page: 
+
+Git is a distributed Version Control System (VCS), which means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. 
+
+A repository is where your project work happens--think of it as your project folder. 
+
+You can clone a repository to create a local copy on your computer and then use Git to sync the two. 
+
+Repositories also contain READMEs. You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it. 
+
+Committing and pushing are how you can add the changes you made on your local machine to the remote repository in GitHub. 
+
+You can make a commit when you have made changes to your project that you want to “checkpoint.” 
+
+You can also add a helpful commit message to remind yourself or your teammates what work you did 
+
+Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. 
+
+A fork is another way to copy a repository, but is usually used when you want to contribute to someone else’s project. 
+
+Forking a repository allows you to freely experiment with changes without affecting the original project and is very popular when contributing to open source software projects. 
+
+When working with branches, you can use a pull request to tell others about the changes you want to make and ask for their feedback. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add more changes if need be.  
+
+Issues are a way to track enhancements, tasks, or bugs for your work on GitHub. 
