@@ -1,6 +1,13 @@
 # Course Introduction
 
-A full syllabus is available in Canvas.
+A full syllabus is available in [Canvas](https://usu.instructure.com/courses/731881).
+
+## Important Course links
+- [class-repo](https://github.com/USU-ITLS-x265-23-summer/class-repo)
+- [discussions](https://github.com/orgs/USU-ITLS-x265-23-summer/discussions)
+- [Office Hour schedule](https://usu.instructure.com/calendar?include_contexts=course_731881)
+- [Weekly Tasks with Descriptions and links](https://github.com/USU-ITLS-x265-23-summer/class-repo/tree/main/Weekly-assignments)
+- [Weekly Rubrics](https://usu.instructure.com/courses/731881/assignments)
 
 ## Course Description
 
