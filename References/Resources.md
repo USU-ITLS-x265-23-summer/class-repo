@@ -15,6 +15,8 @@
 
 ### Markdown
 - <https://usu.instructure.com/courses/715206/discussion_topics/2551171>
+- https://github.com/Cheatsheet-lang/Git-markdown
+- https://learnmarkdown.com/
 
 
 ## Tools
