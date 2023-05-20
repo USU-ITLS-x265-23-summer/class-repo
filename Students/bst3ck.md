@@ -1,6 +1,8 @@
 # Hello Class
 
 My GitHub username is: bst3ck
+My Excerism username is: @bst3ck
+My FreeCodeCamp username is: bst3ck
 
 My UtahJS username is also: ben@bksteckler.com
 
