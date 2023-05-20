@@ -11,9 +11,12 @@
 ### JavaScript
 
 - <https://developer.mozilla.org/en-US/docs/Web/JavaScript#reference>
+- [Exercism Walkthrough on YouTube](https://youtube.com/playlist?list=PLJO7vAdVP8x1XreVWnTEtySN9BE8-Tr4o)
 
 ### Markdown
 - <https://usu.instructure.com/courses/715206/discussion_topics/2551171>
+- https://github.com/Cheatsheet-lang/Git-markdown
+- https://learnmarkdown.com/
 
 
 ## Tools
