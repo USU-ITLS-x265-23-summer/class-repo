@@ -13,7 +13,7 @@
 - <https://developer.mozilla.org/en-US/docs/Web/JavaScript#reference>
 
 ### Markdown
-- ~~<https://usu.instructure.com/courses/715206/discussion_topics/2551171>~~
+- ~~<https://github.com/orgs/USU-ITLS-x265-23-summer/discussions>~~
 #### !!!ERROR!!!
 - **This _link_ doesn't seem to work** 
 - Each time I attempt to enter, even when logged in to Canvas, it shows my **"access was denied"**.
