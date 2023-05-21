@@ -8,7 +8,7 @@
 
 **Version Control System (VCS)**: a tool for tracking changes to code and collaborating and sharing with others
 
-**Markdown**: A way of formatting text in markdown (`.md`) files. This is a markdown file. You can add **bold text**, *italicized text*, and more. 
+**Markdown**: a way of formatting text in markdown (`.md`) files. This is a markdown file. You can add **bold text**, *italicized text*, and more. 
 [GitHub Markdown Reference Sheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
     - A good site to reference basic markdown effects.
 
