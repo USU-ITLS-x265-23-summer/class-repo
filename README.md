@@ -84,7 +84,7 @@ This course is designed to include both collaborative and individual aspects, bu
 
 One clear example will be the running course notes and FAQS, i.e. this repo (you'll understand this term by the end of week one) for all notes.  Each of you is expected to actively contribute to this repository.
 
-In addition, if you have a question, you may reach out to you classmates, and they are encouraged to help in answering or clarifying your understanding.  Likewise, if someone posts a question that you think you can provide additional information about, please do so!
+In addition, if you have a question, you may reach out to your classmates, and they are encouraged to help in answering or clarifying your understanding.  Likewise, if someone posts a question that you think you can provide additional information about, please do so!
 
 Meanwhile, your course project must _primarily_ be your own work, but if you run into a situation where you need assistance, you are still encouraged to reach out to your classmates for assistance.
 
