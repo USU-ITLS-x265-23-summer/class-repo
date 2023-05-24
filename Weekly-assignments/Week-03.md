@@ -9,7 +9,7 @@ For some of you, Week 2 has left you in wonderland.  That's okay!  We're going t
 
 ### JavaScript
 
-Complete an of the [FreeCodeCamp - JavaScript Algorithms and Data Structures] (JavaScript Algorithms and Data Structures)  
+Complete any of the [FreeCodeCamp - JavaScript Algorithms and Data Structures] (JavaScript Algorithms and Data Structures)  
 lessons that you haven't already completed (<https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/build-javascript-objects>)
 
 
