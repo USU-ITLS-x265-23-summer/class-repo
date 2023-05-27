@@ -15,6 +15,8 @@
 
 **Respository**: the place where project work happens, much like a project folder.
 
+**Pull Request**: is used to push local changes into a shared repository.
+
 ## JavaScript Terms
 
 **`const`**: A constant variable. Use constants when you know the number won't need to change later, such as the number of hours in a day.
@@ -24,4 +26,5 @@
 **`return`**: A way to return a value from a function.
 
 **`var`**: A variable that can be accessed throughout the entire function it's defined in.
+
 
