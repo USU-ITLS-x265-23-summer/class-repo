@@ -14,3 +14,4 @@
 
 **Respository**: the place where project work happens, much like a project folder.
 
+**Pull Request**: is used to push local changes into a shared repository.
