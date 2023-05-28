@@ -8,11 +8,12 @@
 
 ### CSS
 - <https://developer.mozilla.org/en-US/docs/Web/CSS#reference>
+- [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox) that I have found extermely helpful in the past
 
 ### JavaScript
-
 - <https://developer.mozilla.org/en-US/docs/Web/JavaScript#reference>
 - [Exercism Walkthrough on YouTube](https://youtube.com/playlist?list=PLJO7vAdVP8x1XreVWnTEtySN9BE8-Tr4o)
+- Here is a [simple and quick javascript reference page](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) that some might find helpful
 
 ### Markdown
 - ~~<https://usu.instructure.com/courses/715206/discussion_topics/2551171>~~
