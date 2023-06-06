@@ -34,10 +34,10 @@ Some of these resources include integrated editors, while others don't.  For tho
 
 ## Instructional Tasks
 
-Considering the different instructional aspects that you've seen and discussed thus far, post your thoughts on the instructional aspects you intend to include in your final project and what anti-patterns you intend to avoid.
+Considering the different instructional aspects that you've seen and discussed thus far, post your thoughts on the instructional aspects that you intend to include in your final project and what anti-patterns you intend to avoid.
 
 ## Project Task
 
-**_In consultation with you instructor_**, narrow down your possible projects to your singular course project.
+**_In consultation with your instructor_**, narrow down your possible projects to your singular course project.
 
-Once **_we_** have an agreed upon your project, make a list of tasks that you think y'll need to complete for your project.  This list can be as specific or vague as you desire.  We'll revise it as we go.
+Once **_we_** have an agreed upon your project, make a list of tasks that you think you'll need to complete your project.  This list can be as specific or vague as you desire.  We'll revise it as we go.
