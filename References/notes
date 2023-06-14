@@ -23,3 +23,7 @@ Forking a repository allows you to freely experiment with changes without affect
 When working with branches, you can use a pull request to tell others about the changes you want to make and ask for their feedback. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add more changes if need be.  
 
 Issues are a way to track enhancements, tasks, or bugs for your work on GitHub. 
+
+Tips for Debugging: 
+1) Add console.log(*with your variable here*). 
+2) Copy code to this page: https://pythontutor.com/javascript.html#mode=edit and click "Visualize Execution."
