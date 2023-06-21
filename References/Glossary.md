@@ -2,6 +2,8 @@
 
 ## General Terms
 
+**CSS** - A way to format HTML code to a display. It changes the style of basic HTML elements.
+
 **HTML** - Hypertext Markup Language
 
 **MDN** - [Mozilla Developer Network](https://developer.mozilla.org/en-US/https://developer.mozilla.org/en-US/docs/Web#web_technology_references)
