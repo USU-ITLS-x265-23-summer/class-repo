@@ -26,7 +26,7 @@ Shall we play another game? - Yes, we shall play another game.  Select one or mo
 
 ## All technical topics
 
-- Take time to review anything that's been particularly challenging.  Post questions to the discussion form. As for different examples, etc.  Likewise, help your classmates with the topics that they find challenging.
+- Take time to review anything that's been particularly challenging.  Post questions to the discussion form. Ask for different examples, etc.  Likewise, help your classmates with the topics that they find challenging.
 
 
 ## Instructional Tasks
