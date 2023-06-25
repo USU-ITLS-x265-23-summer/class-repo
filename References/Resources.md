@@ -30,6 +30,10 @@
 ### JavaScript step-through tool in PythonTutor.com
 - <https://pythontutor.com/javascript.html#mode=edit>
 
+### Codecademy
+- [Codecademy HTML and CSS](https://www.codecademy.com/catalog/language/html-css?g_network=g&g_productchannel=&g_adid=624951457594&g_locinterest=&g_keyword=codecademy%20html&g_acctid=243-039-7011&g_adtype=&g_keywordid=kwd-520300395752&g_ifcreative=&g_campaign=account&g_locphysical=1026952&g_adgroupid=128133969828&g_productid=&g_source={sourceid}&g_merchantid=&g_placement=&g_partition=&g_campaignid=1955172604&g_ifproduct=&utm_id=t_kwd-520300395752:ag_128133969828:cp_1955172604:n_g:d_c&utm_source=google&utm_medium=paid-search&utm_term=codecademy%20html&utm_campaign=US_Brand_Exact&utm_content=624951457594&g_adtype=search&g_acctid=243-039-7011&gclid=Cj0KCQjwqNqkBhDlARIsAFaxvwwkZ8TgoCvBK3EoBvzbvqnBGGntBWVTtlJ9X2nCGeqoxP1FCrQdBcIaArDrEALw_wcB)
+  - This website offers several free resources to improve your HTML and CSS abilities.
+  
 ## Apps
 - [Mimo](<https://mimo.org>)
   - This app helps teach JavaScript, HTML, Python and more.
@@ -43,4 +47,3 @@
 
 ## Help from AI
 - <www.bard.google.com>
-- 
