@@ -43,4 +43,6 @@
 
 ## Help from AI
 - <www.bard.google.com>
-- 
+
+### Continue Learning Tips
+// After this class, where can we go to continue learning HTML and JavaScript? I'm worried that after this class, I will lose what I've learned this semester. Will I lose access to any of the websites/programs we are using?
