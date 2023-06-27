@@ -5,6 +5,9 @@ We are all creating content.  Making things accessible from the beginning goes a
 <ul>
   <li>WebAIM https://webaim.org/ (terrific resource homegrown right at USU. They have a course that you can take for free as a student)</li>
   <li>WCAG https://wcag.com/ (industry standards and conformance)</li>
+  <li>Accessibility for UX Designers https://youtu.be/oi3__pUK3C4 (from gabebott)</li>
+  <li>WAVE tool https://github.com/orgs/USU-ITLS-x265-23-summer/discussions/130#discussion-5303826 (from 
+bst3ck)</li>
   </ul>
 
 <h2>Access issues:</h2>
