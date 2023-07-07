@@ -2,7 +2,7 @@
 
 ## General Terms
 
-**CSS** - A way to format HTML code to a display. It changes the style of basic HTML elements.
+**CSS** - A way to format HTML code to a display. It changes the style of basic HTML elements. //I would love some more explanation here. I don't fully understand the relationship between CSS and HTML. So, am I writing HTML code or CSS code? How do I know the difference?
 
 **HTML** - Hypertext Markup Language
 
