@@ -14,6 +14,9 @@ This is only a list of possible types of projects.  Again, my primary expectatio
 - <https://github.com/practical-tutorials/project-based-learning#javascript>
  and <https://github.com/practical-tutorials/project-based-learning#html-and-css>
 
+## Getting Started
+// If this is going to be used for another semester, I think it would be good to add a section here that explains how to create the page where we can begin editing out code within GitHub.
+
 ## Project Assessment
 
 ### Depth points
