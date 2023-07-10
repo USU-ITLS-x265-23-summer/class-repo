@@ -47,3 +47,6 @@
 
 ## Help from AI
 - <www.bard.google.com>
+
+### Continue Learning Tips
+// Add here where we can go after this class to continute learning code.
