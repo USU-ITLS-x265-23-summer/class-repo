@@ -46,4 +46,4 @@ _In general_, you should have all of your content by the end of Week 9.  This in
 
 ## Collaboration Task
 
-Review your classmates' projects, let them know what you find really useful, if it appears that they're still struggling, make suggestions to help them correct or refine their code.
+Review your classmates' projects, let them know what you find really useful, if it appears that they're still struggling, make suggestions to help them correct or refine their code. Rubric element from Canvas: Meaningful comments, suggestions, answers to at least 2 other classmate's inquiries
