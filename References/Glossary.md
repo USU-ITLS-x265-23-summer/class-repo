@@ -2,7 +2,17 @@
 
 ## General Terms
 
-**CSS** - A way to format HTML code to a display. It changes the style of basic HTML elements. //I would love some more explanation here. I don't fully understand the relationship between CSS and HTML. So, am I writing HTML code or CSS code? How do I know the difference?
+**CSS** - A way to format HTML code to a display. It changes the style of basic HTML elements.
+HTML and CSS are two different types of markup (code), which have their own unique syntax (the arrangement in which code is written). There’s an important distinction between the two. You can think of the HTML as the structure for the page, while the CSS gives the HTML it’s styling.
+
+HTML = structure
+CSS = style
+
+(By the way, HTML stands for HyperText Markup Language and CSS stands for Cascading Style Sheets, if you were wondering.)
+
+For an amazing example of the concept of separating content from style with HTML and CSS, take a look at the site [CSS Zen Garden](http://www.csszengarden.com/). Really, do that now. The link will open in a new tab or window and I’ll take a coffee break.
+(Referenced from: https://www.turnwall.com/articles/html-and-css-work-together/)
+
 
 **HTML** - Hypertext Markup Language
 
