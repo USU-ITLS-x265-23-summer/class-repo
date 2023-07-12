@@ -4,7 +4,7 @@
 
 ### HTML
 - <https://developer.mozilla.org/en-US/docs/Web/HTML#reference>
-- 
+- <https://blog.hubspot.com/website/html> 
 
 ### CSS
 - <https://developer.mozilla.org/en-US/docs/Web/CSS#reference>
