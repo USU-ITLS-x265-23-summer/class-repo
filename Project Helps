@@ -1,4 +1,19 @@
 ### Project Helps
 
 ## Getting Started with the template provided
-On the README.md file within the template, the section "Git" says, "If you look to the far left, you'll see a button that has 3 small circles & 2 lines. If you've edited any files, you'll also see a blue dot with the count of edited files." I don't see this on my page though, so any help here would be great.
+On GitHub in your repository:
+1. Click the green "Code" button
+2. Click Codespaces and then "Create Codespace"
+
+When it launches, you'll be an a VS Code editor window in your browser. See attached screenshot. From there,
+1. Click the Gear Icon at the bottom left
+2. Type in "live server" to search for the Live Server extension
+3. Click install
+4. Go back to the list of files (Files icon at the top left)
+5. Right click on "index.html" and click "Open with live server"
+
+You should now see a new tab in your browser with a visual representation of your index.html. Note that your current repo has just a <title> element which sets the browser tab title but does not display anything. You'll need to add more HTML after the <body> element.
+
+To connect that index.html to your CSS and JavaScript, you will need to also add the following HTML:
+<script src="scripts/primary.js"></script>
+<link rel="stylesheet" href="style/primary.css" />
