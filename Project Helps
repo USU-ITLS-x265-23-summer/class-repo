@@ -17,3 +17,6 @@ You should now see a new tab in your browser with a visual representation of you
 To connect that index.html to your CSS and JavaScript, you will need to also add the following HTML:
 <script src="scripts/primary.js"></script>
 <link rel="stylesheet" href="style/primary.css" />
+
+## Solving Errors
+If you create a new file in a repo, you need to create a new codespace. You may receive an error when committing/syncing, if you haven't created a new codespace.
