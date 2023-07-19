@@ -15,7 +15,7 @@
 
 ## I can't see my edits inside of GitHub?! Help!!
 This is for those of you who are coding inside of visual studio in a codespace. You have made changes but they aren't appearing here inside of GitHub. Let me show you how to update GitHub
-so you can view your updates!
+so you can view your updates! I know this is covered in the project template, but here is a different way to commit and push your code.
 
 To update your repository, you are going to use what is called a shell - lucky for you, there is one already integrated straight into Visual Studio. It is listed as "Terminal" on the bottom
 section of options.
