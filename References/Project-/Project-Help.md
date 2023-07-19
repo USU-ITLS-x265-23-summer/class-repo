@@ -40,3 +40,5 @@ In the terminal, all you're going to type is `git push`. (Yes - that's really it
 Once you do this, your changes will be uploaded to GitHub, and you will be able to view them here. 
 
 If you need any help, post a post in the discussion and tag me (@coopsand) somewhere in the body. I can do my best to help you there.
+
+You can also consult [this link](https://www.atlassian.com/git/tutorials/saving-changes/git-commit) for additional help and information.
