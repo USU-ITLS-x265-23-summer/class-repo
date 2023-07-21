@@ -1,4 +1,4 @@
-I took the following notes from *The Basics of Github* page: 
+## I took the following notes from *The Basics of Github* page: 
 
 Git is a distributed Version Control System (VCS), which means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. 
 
@@ -27,3 +27,5 @@ Issues are a way to track enhancements, tasks, or bugs for your work on GitHub.
 Tips for Debugging: 
 1) Add console.log(*with your variable here*). 
 2) Copy code to this page: https://pythontutor.com/javascript.html#mode=edit and click "Visualize Execution."
+
+// I'm just wondering why this page goes into the editing section instead of allowing us to view the page in preview?
