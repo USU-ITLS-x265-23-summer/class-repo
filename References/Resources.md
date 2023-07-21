@@ -4,7 +4,7 @@
 
 ### HTML
 - <https://developer.mozilla.org/en-US/docs/Web/HTML#reference>
-- 
+- <https://blog.hubspot.com/website/html> 
 
 ### CSS
 - <https://developer.mozilla.org/en-US/docs/Web/CSS#reference>
@@ -47,6 +47,7 @@
 
 ## Help from AI
 - <www.bard.google.com>
-
+## Final Project Help and Ideas
+- [This](https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/) website has some helpful tips for creating your own portfolio that I found useful to read and reference.
 ### Continue Learning Tips
 // Add here where we can go after this class to continute learning code.

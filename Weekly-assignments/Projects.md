@@ -17,6 +17,9 @@ This is only a list of possible types of projects.  Again, my primary expectatio
 ## Getting Started
 // If this is going to be used for another semester, I think it would be good to add a section here that explains how to create the page where we can begin editing out code within GitHub.
 
+Use the template provided by the teacher to set up your own repo.
+
+
 ## Project Assessment
 
 ### Depth points
