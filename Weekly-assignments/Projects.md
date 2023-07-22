@@ -15,10 +15,9 @@ This is only a list of possible types of projects.  Again, my primary expectatio
  and <https://github.com/practical-tutorials/project-based-learning#html-and-css>
 
 ## Getting Started
-// If this is going to be used for another semester, I think it would be good to add a section here that explains how to create the page where we can begin editing out code within GitHub.
 
-Use the template provided by the teacher to set up your own repo.
-
+1. Use the template provided by the teacher to set up your own repo.
+2. Set up a codespace to begin editing.
 
 ## Project Assessment
 
