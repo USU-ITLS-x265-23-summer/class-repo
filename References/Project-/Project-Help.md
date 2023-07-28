@@ -12,6 +12,7 @@
 
 ## Tips for creating your own portfolio using CSS, HTML, and JS
 - [Creating Your Own Portfolio Using HTML, CSS, JS, and Bootstrap](https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/)
+- Similar to the link above, but with some different tips: [How to Build Your Own Developer Portfolio](https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website) 
 
 ## I can't see my edits inside of GitHub?! Help!!
 This is for those of you who are coding inside of visual studio in a codespace. You have made changes but they aren't appearing here inside of GitHub. Let me show you how to update GitHub
