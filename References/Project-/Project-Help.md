@@ -43,3 +43,14 @@ Once you do this, your changes will be uploaded to GitHub, and you will be able 
 If you need any help, post a post in the discussion and tag me (@coopsand) somewhere in the body. I can do my best to help you there.
 
 You can also consult [this link](https://www.atlassian.com/git/tutorials/saving-changes/git-commit) for additional help and information.
+
+## How do I know if my project is up-to-date between Visual Studio and GitHub?
+Well, you can just come visit GitHub and see if it is up-to-date, but the more effective way would be to use the command `git status`.
+
+I explained how to navigate to the terminal in the section above, so if you need help finding it inside of Visual Studio, use those steps listed above.
+
+Inside the terminal, simply type `git status` - and it will tell you the status of your project.
+
+If it says `Your branch is up to date with origin/main` - then that means there have been no changes made since your last commit.
+
+If it showcases file names with red text - that means that changes **have** been made to your files since your last commit. That is when you will want to follow the steps listed above for committing and pushing your code to GitHub. 
