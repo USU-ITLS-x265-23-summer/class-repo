@@ -10,6 +10,15 @@
 ## How to Host Website
 - [GitHub Hosting](https://www.youtube.com/watch?v=p1QU3kLFPdg)
 
+## Live Edit Extension
+Microsoft has created a super handy extension that shows you what your HTML looks like! (And stylized as well!)
+
+The extension is called Live Preview! To add it to your repository, click the extensions tab on the far-left side. This page should be familiar because this is where you installed codespaces. Search "Live Preview" and then install the tool.
+
+Read over the features to understand specifics on how it works. I like this extension compared to other preview extensions I have used because this one automatically showcases the changes you make without you having to re-open the preview. 
+
+I wasn't sure if anyone else was using less-effective preview tools like I was, so I thought I would add this here. :) 
+
 ## Tips for creating your own portfolio using CSS, HTML, and JS
 - [Creating Your Own Portfolio Using HTML, CSS, JS, and Bootstrap](https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/)
 - Similar to the link above, but with some different tips: [How to Build Your Own Developer Portfolio](https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website) 
