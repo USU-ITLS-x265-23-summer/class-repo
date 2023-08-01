@@ -3,11 +3,14 @@ We are all creating content.  Making things accessible from the beginning goes a
 
 <h2>Resources:</h2>
 <ul>
-  <li>WebAIM https://webaim.org/ (terrific resource homegrown right at USU. They have a course that you can take for free as a student)</li>
-  <li>WCAG https://wcag.com/ (industry standards and conformance)</li>
+  <li><a href="https://webaim.org/">WebAIM</a> (terrific resource homegrown right at USU. They have a course that you can take for free as a student)</li>
+  <li><a href="https://wcag.com/">WCAG</a> (industry standards and conformance)</li>
   <li>Accessibility for UX Designers https://youtu.be/oi3__pUK3C4 (from gabebott)</li>
   <li>WAVE tool https://github.com/orgs/USU-ITLS-x265-23-summer/discussions/130#discussion-5303826 (from 
 bst3ck)</li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility#guides">MDN Accessibility Guides</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility">Handling common accessibility problems</a></li>
+  <li><a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a></li>
   </ul>
 
 <h2>Access issues:</h2>
@@ -21,6 +24,4 @@ bst3ck)</li>
   </ul>
   
 <h2>Examples/Practices:</h2>
-<ul>
-<li></li>
-  </ul>
+
